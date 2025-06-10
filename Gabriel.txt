@@ -1,0 +1,2 @@
+La taupe(fonction sans valeur) = $taupe1
+ Gabriel Arman
